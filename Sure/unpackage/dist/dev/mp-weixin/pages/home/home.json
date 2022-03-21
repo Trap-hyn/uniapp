@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "网游竞技",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "nui-tiltle": "/components/nui-tiltle/nui-tiltle"
+  }
+}

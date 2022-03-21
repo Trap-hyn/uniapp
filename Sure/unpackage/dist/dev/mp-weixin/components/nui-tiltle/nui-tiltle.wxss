@@ -1,0 +1,21 @@
+
+.uni-tiltle-box.data-v-5645b5b8{
+	margin: 10px auto;
+}
+.title-box.data-v-5645b5b8,
+.text-box.data-v-5645b5b8{
+	text-align: center;
+}
+.title-box.data-v-5645b5b8{
+	font-size: 20px;
+	font-weight: 600;
+	text-shadow: 2px 2px 2px rgb(98 98 98 / 52%);
+}
+.text-box.data-v-5645b5b8{
+	color: #999;
+	line-height: 30px;
+}
+.title2.data-v-5645b5b8{
+	color: #ffff00;
+}
+
